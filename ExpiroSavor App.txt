@@ -1,0 +1,27 @@
+ExpiroSavor App
+Save and Donate
+
+The problem it solves :
+1. Food is one of the most basic necessities that an individual requires to survive. However, with poverty persisting, many underprivileged individuals even find it hard to receive a single meal in the day.
+2. India is one of the countries that faces the challenge of food insecurity and malnutrition.
+3. When the medicine gets expired. It is very difficult to recycle it and very harmful to the environment.
+4. Poor People did not receive the one-time meal.
+  
+Challenges we ran into when we were using the Python goopy library it's difficult to implement while shorting product items according to the nearest location of the user.
+
+Technologies we used : Html, CSS, JavaScript, Jquery, Bootstrap, Python, Flask, SQLlite, API
+
+Links:
+
+Github : https://github.com/kritriv/ExpiroSavor
+Replit : https://expirosavor-app.kritriv.repl.co/
+Presentation : https://www.canva.com/design/DAFls9OWd9w/Zrdi2nGFCskf8CZmZpvtQA/watch?utm_content=DAFls9OWd9w&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
+Video Demo link : 
+
+BRIEF DESCRIPTION ON HOW YOUR PROJECT FITS INTO REPLIT TRACK
+As our project is ExpiroSavor Web Application
+Donate food items, medicines & Other unused items to poor people before the expiry date.
+Medicine is very hard to recycle and also causes a lot of pollution.
+Various NGOs are connected to the ExpiroSavor web application to provide items to poor people.
+
